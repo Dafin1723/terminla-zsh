@@ -1,0 +1,2 @@
+# terminla-zsh
+tinggal install
